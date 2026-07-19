@@ -56,7 +56,7 @@ function App() {
       <section className="section" id="contact">
         <a className="section-title" href="#contact"><span>🤝</span><h2>Collaborate</h2></a>
         <p className="section-intro">Interested in senior engineering, architecture, or AI-enabled product work? Let’s connect.</p>
-        <div className="contact-table"><div className="table-head"><span>Platform</span><span>Purpose</span><span>Contact</span></div><div><span>✉ Mail</span><b>Professional inquiries and opportunities.</b><em>Email address available on request</em></div><div><span>in LinkedIn</span><b>Professional connections and partnerships.</b><em>Connect through this portfolio’s source</em></div><div><span>⌁ Remote</span><b>Architecture, product, and technical leadership.</b><em>Houston, TX / Remote</em></div></div>
+        <div className="contact-table"><div className="table-head"><span>Platform</span><span>Purpose</span><span>Contact</span></div><div><span>✉ Mail</span><b>Professional inquiries and opportunities.</b><em>Email address available on request</em></div><div><span>in LinkedIn</span><b>Professional connections and partnerships.</b><em>Connect through this portfolio’s source</em></div><div><span>⌁ Location</span><b>Available for remote and regional opportunities.</b><em>Victoria, TX / Remote</em></div></div>
       </section>
     </main>
     <footer><a className="mark" href="#home"><i /><i /></a><p>© 2026 Rayn Foster. Built with React + TypeScript.</p><a href="#home">Back to top ↑</a></footer>
