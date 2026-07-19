@@ -56,10 +56,10 @@ function App() {
       <section className="section" id="contact">
         <a className="section-title" href="#contact"><span>🤝</span><h2>Collaborate</h2></a>
         <p className="section-intro">Interested in senior engineering, architecture, or AI-enabled product work? Let’s connect.</p>
-        <div className="contact-table"><div className="table-head"><span>Platform</span><span>Purpose</span><span>Contact</span></div><div><span>✉ Mail</span><b>Professional inquiries and opportunities.</b><em>Email address available on request</em></div><div><span>in LinkedIn</span><b>Professional connections and partnerships.</b><em>Connect through this portfolio’s source</em></div><div><span>⌁ Location</span><b>Available for remote and regional opportunities.</b><em>Victoria, TX / Remote</em></div></div>
+        <div className="contact-table"><div className="table-head"><span>Platform</span><span>Purpose</span><span>Contact</span></div><div><span>✉ Gmail</span><b>Professional inquiries and opportunities.</b><a href="mailto:ryanfoster0824@gmail.com">ryanfoster0824@gmail.com</a></div><div><span>in LinkedIn</span><b>Professional connections and partnerships.</b><a href="https://www.linkedin.com/in/ryans-foster-a30495b23/" target="_blank" rel="noreferrer">Ryan Foster ↗</a></div><div><span>⌘ GitHub</span><b>Code, open-source work, and technical activity.</b><a href="https://github.com/ryanwoodsmall" target="_blank" rel="noreferrer">github.com/ryanwoodsmall ↗</a></div><div><span>⌁ Location</span><b>Available for remote and regional opportunities.</b><em>Victoria, TX / Remote</em></div></div>
       </section>
     </main>
-    <footer><a className="mark" href="#home"><i /><i /></a><p>© 2026 Rayn Foster. Built with React + TypeScript.</p><a href="#home">Back to top ↑</a></footer>
+    <footer><a className="mark" href="#home"><i /><i /></a><p>© 2026 Rayn Foster. Built with React + TypeScript.</p><div className="footer-links"><a href="mailto:ryanfoster0824@gmail.com">Email</a><a href="https://github.com/ryanwoodsmall" target="_blank" rel="noreferrer">GitHub</a><a href="https://www.linkedin.com/in/ryans-foster-a30495b23/" target="_blank" rel="noreferrer">LinkedIn</a><a href="#home">Back to top ↑</a></div></footer>
   </>
 }
 
